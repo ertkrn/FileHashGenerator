@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\bin\Debug\DosyaSifrelemeDeneme.exe.config
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\bin\Debug\DosyaSifrelemeDeneme.exe
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\bin\Debug\DosyaSifrelemeDeneme.pdb
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.Form1.resources
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.Properties.Resources.resources
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.exe
+c:\users\asus\source\repos\DosyaSifrelemeDeneme\DosyaSifrelemeDeneme\obj\Debug\DosyaSifrelemeDeneme.pdb
